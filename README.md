@@ -1,2 +1,3 @@
-# Bab-III-ANALISIS-STRATEGI-BISNIS-PT-BEBEYI-FASHION-INDONESIA
+# ANALISIS-STRATEGI-BISNIS-PT-BEBEYI-FASHION-INDONESIA
 Dalam Final project Studi Independen Kampus Merdeka Program Data, Bussines Analytics Bootcamp, Kami di tugaskan dalam mengolah data dummy yang mewakili 1 departemen dari sebuah perusahaan fiktif yang mana insight yang didapatkan diharapkan dapat membantu perusahaan tersebut untuk melakukan menemukan strategi dan solusi terbaik dalam pengembangan bisnis, optimasi yang kami lakukan yaitu dengan menggunakan metode CRISP-DM, dan dengan melakukan Exploratory Data Analysis, Modeling, dan Visualisasi Data dalam bentuk Dashboard/Storytelling.
+FILE INI MERUPAKAN MILIK DEPARTEMEN PRODUCT (NADIRA IRSALINA), MERUPAKAN FILE ORIGINAL YANG DIBUAT UNTUK FINAL PROJECT STUDI INDEPENDEN KAMPUS MERDERKA
